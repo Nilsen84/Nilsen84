@@ -1,19 +1,6 @@
-<!--
-**Nilsen84/Nilsen84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there, I'm Nils :wave:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Proficient in:
+### :smiling_imp: Proficient in:
 <a href="https://www.java.com/">
   <img
     align="left" alt="Java" height="30"
@@ -59,7 +46,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-### Learning:
+---
+
+### :thinking: Learning:
 <a href="https://svelte.dev/">
   <img
     align="left" alt="Svelte" height="30"
@@ -90,3 +79,11 @@ Here are some ideas to get you started:
     src="images/CSS.png"
   />
 </a>
+
+<br/>
+
+---
+
+### :bar_chart: Github Stats:
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nilsen84&show_icons=true&hide_border=true" alt="Nilsen84's github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilsen84&layout=compact&hide_border=true&exclude_repo=mcp-1.8.9" alt="Nilsen84's language stats"/> |
+| ----------- | ----------- |
