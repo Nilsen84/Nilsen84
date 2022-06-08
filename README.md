@@ -1,4 +1,6 @@
-# Hello there, I'm Nils :wave:
+Hello there, I'm Nils :wave:
+============================
+
 Hi, I'm Nils (he/him), a 15 y/o aspiring developer from Sweden 🇸🇪.
 
 ### 😈 Proficient in:
