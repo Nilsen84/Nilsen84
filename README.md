@@ -1,88 +1,31 @@
 # Hello there, I'm Nils :wave:
+Hi, I'm Nils (he/him), a 15 y/o aspiring developer from Sweden 🇸🇪.
 
-### :smiling_imp: Proficient in:
-<a href="https://www.java.com/">
-  <img
-    align="left" alt="Java" height="30"
-    src="images/Java.png"
-  />
-</a>
-<a href="https://www.cplusplus.com">
-  <img
-    align="left" alt="C++" height="30"
-    src="images/C++.png"
-  />
-</a>
-<a href="https://www.cplusplus.com">
-  <img
-    align="left" alt="C" height="30"
-    src="images/C.png"
-  />
-</a>
-<a href="https://www.rust-lang.org/">
-  <img
-    align="left" alt="Rust" height="30"
-    src="images/Rust.png"
-  />
-</a>
-<a href="https://www.python.org/">
-  <img
-    align="left" alt="Python" height="30"
-    src="images/Python.png"
-  />
-</a>
-<a href="https://cmake.org/">
-  <img
-    align="left" alt="Cmake" height="30"
-    src="images/Cmake.png"
-  />
-</a>
-<a href="https://gradle.org/">
-  <img
-    align="left" alt="Gradle" height="30"
-    src="images/Gradle.png"
-  />
-</a>
+### 😈 Proficient in:
 
-<br/>
+<code><a href="https://www.java.com/"><img src="images/Java.png" height="30"/></a></code>
+<code><a href="https://www.cplusplus.com/"><img src="images/C++.png" height="30"/></a></code>
+<code><a href="https://www.cplusplus.com/"><img src="images/C.png" height="30"/></a></code>
+<code><a href="https://www.rust-lang.org/"><img src="images/Rust.png" height="30"/></a></code>
+<code><a href="https://www.python.org/"><img src="images/Python.png" height="30"/></a></code>
+<code><a href="https://cmake.org/"><img src="images/Cmake.png" height="30"/></a></code>
+<code><a href="https://gradle.org/"><img src="images/Gradle.png" height="30"/></a></code>
 
 ---
 
-### :thinking: Learning:
-<a href="https://svelte.dev/">
-  <img
-    align="left" alt="Svelte" height="30"
-    src="images/Svelte.png"
-  />
-</a>
-<a href="https://www.javascript.com/">
-  <img
-    align="left" alt="Javascript" height="30"
-    src="images/JavaScript.png"
-  />
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img
-    align="left" alt="TypeScript" height="30"
-    src="images/TypeScript.png"
-  />
-</a>
-<a href="https://html.spec.whatwg.org/multipage/">
-  <img
-    align="left" alt="HTML" height="30"
-    src="images/HTML.png"
-  />
-</a>
-<a href="https://www.w3.org/Style/CSS/">
-  <img
-    align="left" alt="CSS" height="30"
-    src="images/CSS.png"
-  />
-</a>
+### 🤔 Learning:
 
-<br/>
+<code><a href="https://svelte.dev/"><img src="images/Svelte.png" height="30"/></a></code>
+<code><a href="https://www.javascript.com/"><img src="images/JavaScript.png" height="30"/></a></code>
+<code><a href="https://www.typescriptlang.org/"><img src="images/TypeScript.png" height="30"/></a></code>
+<code><a href="https://html.spec.whatwg.org/multipage/"><img src="images/HTML.png" height="30"/></a></code>
+<code><a href="https://www.w3.org/Style/CSS/"><img src="images/CSS.png" height="30"/></a></code>
 
 ---
+
+### 📞 How to reach me:
+
+[![Discord](https://img.shields.io/badge/-nils%235281-%235662f6?logo=discord&style=flat-square&logoColor=white)](https://discordapp.com/users/285335363944316928)
 
 ### :bar_chart: Github Stats:
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nilsen84&show_icons=true&hide_border=true" alt="Nilsen84's github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilsen84&layout=compact&hide_border=true&exclude_repo=mcp-1.8.9" alt="Nilsen84's language stats"/> |
