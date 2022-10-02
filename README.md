@@ -1,7 +1,7 @@
 Hello there, I'm Nils 👋
 ============================
 
-Hi, I'm Nils (he/him), a 15 y/o aspiring developer from Sweden 🇸🇪.
+Hi, I'm Nils, a 16 y/o aspiring developer from Sweden 🇸🇪.
 
 ### 😈 Proficient in:
 
